@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615759903 source:c:\users\user\desktop\ma-dse-202-f-002\hotel\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
